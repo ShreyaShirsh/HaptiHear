@@ -6,7 +6,7 @@
 
 | | |
 |---|---|
-| Owner | Shreya — undergraduate CS student at VIT (Vellore Institute of Technology) |
+| Owner | Shreya - undergraduate CS student at VIT (Vellore Institute of Technology) |
 | Collaborator | Rachel - undergraduate CS student at VIT (Vellore Institute of Technology) |
 | Purpose | Course IoT project, to be shown at a course review (demo + viva) |
 | Build window | **Review on 25 Oct 2026** (she said 19th on 11 Oct, then 25th on 13 Oct, confirm). Has 1 kΩ + 1N4007. **Transistor ordered online, arriving 21 Oct**. Plan: build mic + ML first, add motor circuit when the transistor arrives |
